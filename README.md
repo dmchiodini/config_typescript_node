@@ -1,1 +1,1 @@
-Arquivo tsconfig.json pré-configurado para projetos node.
+Arquivos pré-configurados para projetos de api node.
